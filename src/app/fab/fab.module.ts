@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 
-import { FabComponent } from './fab.component';
+import { FabComponent } from '../fab/fab.component';
 
 @NgModule({
 	declarations: [

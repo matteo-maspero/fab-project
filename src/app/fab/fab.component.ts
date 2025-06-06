@@ -2,7 +2,6 @@ import { Component, Input } from '@angular/core';
 
 @Component({
 	selector: 'wr-fab',
-	standalone: false,
 	templateUrl: './fab.component.html',
 	styleUrl: './fab.component.scss'
 })
